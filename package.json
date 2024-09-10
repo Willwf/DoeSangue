@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Willwf/MaratonaDev-3.0#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "nodemon": "^2.0.2",
     "nunjucks": "^3.2.4",
     "pg": "^8.12.0"
